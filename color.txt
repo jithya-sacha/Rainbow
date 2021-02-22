@@ -1,4 +1,4 @@
-colors of rainbow and unicorn
+colors of rainbow,unicorn and ponies 
 violet
 indigo
 blue
@@ -9,3 +9,4 @@ Red
 Unicorn
 White
 these are the colors of rainbow and Unicorn
+also ponies
